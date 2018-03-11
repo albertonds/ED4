@@ -3,7 +3,7 @@ package malosolores;
 public class Coches {
 	String matriculaCoche;
 	String atribCoche;
-	String modelo;
+	String 
 	String fabricante;		
 	 public void Coche() {
 		 matriculaCoche = "";
